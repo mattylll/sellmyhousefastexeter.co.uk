@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sellmyhousefastexeter.co.uk/sitemap.xml
