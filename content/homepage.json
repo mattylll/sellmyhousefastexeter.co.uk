@@ -1,0 +1,31 @@
+{
+  "locationIntro": "<p>If you need to <strong>sell your house fast in Exeter</strong>, our local cash buying service offers a genuine, stress-free alternative to the traditional property market. Exeter is Devon's thriving capital city, a place where Roman walls and a medieval cathedral sit alongside a modern university campus and a booming retail quarter. With average house prices around £310,000, the city's market is buoyant, yet selling through estate agents can still mean months of viewings, stalled chains, and buyers pulling out after surveys flag problems in the city's varied housing stock.</p><p>Whether your property is a Victorian terrace in St Thomas, a family home in Heavitree, a modern build in Pinhoe, a characterful cottage in Topsham, or an ex-council property in Wonford, we buy across the EX1 postcode and right across the city. From period houses near the Cathedral Close to suburban semis in Alphington, from waterside homes along the Quay to retirement bungalows in St Leonard's, we purchase properties in any condition and can complete in as little as fourteen days. No estate agent fees, no chains, and no last-minute surprises — just a fair cash offer and a completion date that works for you.</p>",
+  "whySellFast": [
+    {
+      "heading": "Skip Exeter's Seasonal Market Swings",
+      "body": "Exeter's property market is heavily influenced by the university calendar and seasonal tourism patterns. Demand peaks in summer and dips in winter, meaning sellers who list at the wrong time can wait months for a serious buyer. The city's position as a gateway to both Dartmoor and the Devon coast also means that relocating buyers often make impulsive offers they later withdraw from. Our cash purchase removes this uncertainty entirely. There is no mortgage to be declined, no chain to break, and no risk of a buyer changing their mind after a weekend visit."
+    },
+    {
+      "heading": "No Repairs or Renovations Required",
+      "body": "Exeter's housing stock spans centuries, from medieval timber-frame buildings in the city centre to Victorian terraces in St Thomas and Heavitree, post-war homes in Wonford, and modern estates in Pinhoe. Many of these properties need work that deters mortgage-dependent buyers — from damp in older stone-built houses to outdated electrics in period terraces. We buy properties in any condition whatsoever, so there is no need to spend thousands on repairs, damp treatment, or modernisation before selling."
+    },
+    {
+      "heading": "Fast Completion on Your Terms",
+      "body": "Whether you are relocating from Exeter for a new role, dealing with a relationship breakdown, managing an inherited property in Heavitree, or facing financial difficulty on a mortgage in Alphington, waiting months for a traditional sale is rarely practical. We can make you a cash offer within 24 hours and complete the purchase in as little as seven days. You choose the completion date, and we make sure everything is in place to meet it."
+    }
+  ],
+  "marketSnapshot": [
+    {
+      "label": "Average House Price",
+      "value": "£310,000"
+    },
+    {
+      "label": "Average Time to Sell (Traditional)",
+      "value": "4-6 months"
+    },
+    {
+      "label": "Our Average Completion",
+      "value": "14 days"
+    }
+  ]
+}
