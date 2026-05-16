@@ -1,0 +1,55 @@
+{
+  "nearbyLocations": [
+    {
+      "name": "Torquay",
+      "domain": "sellmyhousefasttorquay.co.uk",
+      "region": "South West",
+      "anchor": "Cash House Buyers Torquay",
+      "distance": "nearby"
+    },
+    {
+      "name": "Taunton",
+      "domain": "sellmyhousefasttaunton.co.uk",
+      "region": "South West",
+      "anchor": "Taunton House Buyers",
+      "distance": "nearby"
+    },
+    {
+      "name": "Plymouth",
+      "domain": "sellmyhousefastplymouth.co.uk",
+      "region": "South West",
+      "anchor": "Quick House Sale Plymouth",
+      "distance": "nearby"
+    },
+    {
+      "name": "Cardiff",
+      "domain": "sellmyhousefastcardiff.co.uk",
+      "region": "Wales",
+      "anchor": "Sell House Fast Cardiff",
+      "distance": "nearby"
+    },
+    {
+      "name": "Bristol",
+      "domain": "bristolsellmyhousefast.co.uk",
+      "region": "South West",
+      "anchor": "We Buy Houses Bristol",
+      "distance": "nearby"
+    }
+  ],
+  "regionalLocations": [
+    {
+      "name": "Poole",
+      "domain": "sellmyhousefastpoole.co.uk",
+      "region": "South Coast",
+      "anchor": "Fast Property Sale Poole",
+      "distance": "regional"
+    },
+    {
+      "name": "Chichester",
+      "domain": "sellmyhousefastchichester.co.uk",
+      "region": "South Coast",
+      "anchor": "Sell Your House Fast Chichester",
+      "distance": "regional"
+    }
+  ]
+}

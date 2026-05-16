@@ -1,0 +1,436 @@
+{
+  "lastUpdated": "2026-05-16",
+  "source": "HM Land Registry Price Paid Data",
+  "sourceUrl": "https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads",
+  "license": "Open Government Licence v3.0 — Contains HM Land Registry data © Crown copyright and database right",
+  "sourceFiles": [
+    "pp-2024.csv",
+    "pp-2025.csv",
+    "pp-2026.csv"
+  ],
+  "dateRange": {
+    "from": "2024-01-02",
+    "to": "2026-03-27"
+  },
+  "filters": {
+    "districts": [
+      "EXETER"
+    ],
+    "townCity": null,
+    "postcodes": null
+  },
+  "count": 3990,
+  "averagePrice": 375316,
+  "medianPrice": 300000,
+  "minPrice": 500,
+  "maxPrice": 13176371,
+  "byPropertyType": {
+    "Detached": {
+      "count": 658,
+      "averagePrice": 549969,
+      "medianPrice": 475000
+    },
+    "Semi-Detached": {
+      "count": 878,
+      "averagePrice": 364489,
+      "medianPrice": 332000
+    },
+    "Terraced": {
+      "count": 1506,
+      "averagePrice": 310571,
+      "medianPrice": 280000
+    },
+    "Flat": {
+      "count": 755,
+      "averagePrice": 214890,
+      "medianPrice": 185000
+    },
+    "Other": {
+      "count": 193,
+      "averagePrice": 961903,
+      "medianPrice": 360000
+    }
+  },
+  "byMonth": [
+    {
+      "month": "2024-01",
+      "count": 119,
+      "averagePrice": 415816,
+      "medianPrice": 295000
+    },
+    {
+      "month": "2024-02",
+      "count": 132,
+      "averagePrice": 343786,
+      "medianPrice": 275000
+    },
+    {
+      "month": "2024-03",
+      "count": 151,
+      "averagePrice": 394483,
+      "medianPrice": 300000
+    },
+    {
+      "month": "2024-04",
+      "count": 122,
+      "averagePrice": 351813,
+      "medianPrice": 292500
+    },
+    {
+      "month": "2024-05",
+      "count": 154,
+      "averagePrice": 450283,
+      "medianPrice": 306250
+    },
+    {
+      "month": "2024-06",
+      "count": 183,
+      "averagePrice": 405603,
+      "medianPrice": 320000
+    },
+    {
+      "month": "2024-07",
+      "count": 179,
+      "averagePrice": 387080,
+      "medianPrice": 300000
+    },
+    {
+      "month": "2024-08",
+      "count": 175,
+      "averagePrice": 359040,
+      "medianPrice": 305000
+    },
+    {
+      "month": "2024-09",
+      "count": 175,
+      "averagePrice": 387986,
+      "medianPrice": 295000
+    },
+    {
+      "month": "2024-10",
+      "count": 237,
+      "averagePrice": 442838,
+      "medianPrice": 330000
+    },
+    {
+      "month": "2024-11",
+      "count": 168,
+      "averagePrice": 477848,
+      "medianPrice": 309750
+    },
+    {
+      "month": "2024-12",
+      "count": 187,
+      "averagePrice": 342281,
+      "medianPrice": 287000
+    },
+    {
+      "month": "2025-01",
+      "count": 119,
+      "averagePrice": 365778,
+      "medianPrice": 300000
+    },
+    {
+      "month": "2025-02",
+      "count": 184,
+      "averagePrice": 355674,
+      "medianPrice": 301000
+    },
+    {
+      "month": "2025-03",
+      "count": 327,
+      "averagePrice": 363421,
+      "medianPrice": 315000
+    },
+    {
+      "month": "2025-04",
+      "count": 95,
+      "averagePrice": 351520,
+      "medianPrice": 285000
+    },
+    {
+      "month": "2025-05",
+      "count": 148,
+      "averagePrice": 366955,
+      "medianPrice": 280000
+    },
+    {
+      "month": "2025-06",
+      "count": 156,
+      "averagePrice": 353588,
+      "medianPrice": 303750
+    },
+    {
+      "month": "2025-07",
+      "count": 145,
+      "averagePrice": 358084,
+      "medianPrice": 290000
+    },
+    {
+      "month": "2025-08",
+      "count": 144,
+      "averagePrice": 337092,
+      "medianPrice": 290000
+    },
+    {
+      "month": "2025-09",
+      "count": 108,
+      "averagePrice": 384589,
+      "medianPrice": 316000
+    },
+    {
+      "month": "2025-10",
+      "count": 149,
+      "averagePrice": 355349,
+      "medianPrice": 310000
+    },
+    {
+      "month": "2025-11",
+      "count": 100,
+      "averagePrice": 323739,
+      "medianPrice": 300000
+    },
+    {
+      "month": "2025-12",
+      "count": 130,
+      "averagePrice": 330097,
+      "medianPrice": 290000
+    },
+    {
+      "month": "2026-01",
+      "count": 75,
+      "averagePrice": 323800,
+      "medianPrice": 310000
+    },
+    {
+      "month": "2026-02",
+      "count": 85,
+      "averagePrice": 324076,
+      "medianPrice": 295000
+    },
+    {
+      "month": "2026-03",
+      "count": 43,
+      "averagePrice": 339479,
+      "medianPrice": 293000
+    }
+  ],
+  "recentSales": [
+    {
+      "date": "2026-03-27",
+      "price": 275000,
+      "type": "Semi-Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Peterborough Road",
+      "outwardCode": "EX4"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 360000,
+      "type": "Semi-Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Trafalgar Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 375000,
+      "type": "Semi-Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Kingsway",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 178000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "River Plate Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 295000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Albert Street",
+      "outwardCode": "EX1"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 261000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Portland Street",
+      "outwardCode": "EX1"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 240000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Cowick Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 580000,
+      "type": "Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Bindon Road",
+      "outwardCode": "EX4"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 430000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Turnstone Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 67500,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Bartholomew Street West",
+      "outwardCode": "EX4"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 272000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Mansfield Road",
+      "outwardCode": "EX4"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 765000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Queens Terrace",
+      "outwardCode": "EX4"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 442950,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Turnstone Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 350000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Poltimore Drive",
+      "outwardCode": "EX1"
+    },
+    {
+      "date": "2026-03-18",
+      "price": 264000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Ferndale Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 850000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Park Place",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 430000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "West Grove Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-16",
+      "price": 272000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Sand Grove",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 474000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Old Park Road",
+      "outwardCode": "EX4"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 507500,
+      "type": "Other",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Fore Street",
+      "outwardCode": "EX3"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 202000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Dryden Road",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 245000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Greyfriars Road",
+      "outwardCode": "EX4"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 775000,
+      "type": "Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Rydon Lane",
+      "outwardCode": "EX2"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 197500,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Kinnerton Way",
+      "outwardCode": "EX4"
+    }
+  ]
+}

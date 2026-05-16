@@ -70,6 +70,7 @@ const siteConfig: SiteConfig = {
       "stats",
       "testimonials",
       "areas",
+      "nearby-locations",
       "faq",
       "cta"
     ]
@@ -150,6 +151,9 @@ const siteConfig: SiteConfig = {
     "defaultTitle": "Sell My House Fast in Exeter | Cash House Buyers | Sell My House Fast",
     "defaultDescription": "Need to sell my house fast in Exeter? Get a guaranteed cash offer within 24 hours. No fees, no chains, complete in 7-14 days. Call 0800 012 1057 today!",
     "ogImage": "/images/og-default.jpg"
+  },
+  "analytics": {
+    "ga4MeasurementId": "G-SOUTH001"
   }
 };
 
